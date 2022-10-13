@@ -1,5 +1,13 @@
 # TPU Starter
 
+<h4 align="center">
+    <p>
+        <b>English</b> |
+        <a href="https://github.com/ayaka14732/tpu-starter/blob/main/README_ko.md">한국어</a> | 
+    <p>
+</h4>
+  
+
 Everything you want to know about Google Cloud TPU
 
 * [1. Community](#1-community)
